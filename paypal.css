@@ -1,0 +1,318 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+.mainlogo{
+    height: 100%;
+    width: 15%;
+}
+.mainoptions{
+    height: 100%;
+    width: 40%;
+    display: flex;
+    padding-left: 100px;  
+}
+.mainbutton{
+    height: 100%;
+    width: 20%;    
+}
+.mainlogo img{
+    width: 70%;
+   margin: 20px;  
+}
+h4{
+    margin-right: 45px;
+    margin-top: 25px;
+    font-size: 14px;
+    font-weight: normal;
+    font-family: sans-serif;
+}
+.mainbutton button{
+    width: 30%;
+    height: 50%;
+    border-radius: 30px;
+    background-color: white;
+    margin: 20px;
+    border: 1px solid #0070ba;
+    color: #0070ba;
+}
+.mainkey{
+    background-color: #0070ba;
+    color: white;
+}
+.heading{
+    width: 100%;
+    height: 300px;
+    background-color: #05a5e3;
+}
+.mainheading{
+    width: 100%;
+    height: 200px;
+    
+    display: flex;
+    justify-content: center;
+    
+}
+.mainheading1{
+    width: 45%;
+    height: 100%;
+    text-align: center;
+    font-size: 20px; 
+}
+.mainheading1 h2{
+    color: white;
+}
+button{
+    width: 300px;
+    height: 50px;
+    border-radius: 40px;
+    margin-left: 550px;
+    margin-top: 20px;
+    background-color: white;
+    color: #0070ba;
+    border: 1px solid white;
+    font-size: 15px;
+}
+.banner{
+    width: 100%;
+    height: 300px;
+}
+.banner .image1{
+    width: 100%;
+    height: 300px;
+}
+.support{
+    width: 100%;
+    height: 160px;
+    background-color: #02387b; 
+}
+.supportdetails{
+    width: 100%;
+    height: 50%;
+    text-align: center;
+}
+.supportdetails h2{
+    color: white;
+}
+.shoppingmall{
+    width: 100%;
+    height: 430px;
+    background-color: #f4f7fa;
+    display: flex;
+}
+.shoppingmalldetails{
+    width: 50%;
+  
+    justify-content: center;
+}
+.shoppingmallimage{
+    width: 50%;
+    height: 100%;
+   
+}
+h1{
+    padding-left: 100px;
+    padding-top: 150px;
+}
+p{
+    padding-left: 100px;
+    font-size: 22px;
+}
+.shoppingbutton{
+    margin-left: 100px;
+    border: 1px solid blue;
+}
+.image2{
+    width: 350px;
+    height: 350px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.purchase{
+    width: 100%;
+    height: 430px;
+    display: flex;
+}
+.purchasedetails{
+    width: 50%;
+    height: 100%;
+}
+.purchaseimage{
+    width: 50%;
+    height: 100%;   
+}
+.purchasebutton{
+    margin-left: 100px;
+    border: 1px solid blue;
+}
+.purchaseimage .image3{
+    width: 350px;
+    height: 350px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.pay{
+    width: 100%;
+    height: 430px;
+    background-color: #f4f7fa;
+    display: flex;
+}
+.payimage{
+    width: 50%;
+    height: 100%;
+}
+.paydetails{
+    width: 50%;
+    height: 100%;  
+}
+.image4{
+    width: 350px;
+    height: 350px;
+    padding-left: 250px;
+    padding-top: 50px;
+}
+.paybutton{
+    margin-left: 100px;
+    border: 1px solid blue;
+}
+.confidence{
+    width: 100%;
+    height: 430px;
+    display: flex;
+}
+.confidencedetails{
+    width: 50%;
+    height: 100%;
+}
+.confidenceimage{
+    width: 50%;
+    height: 100%;
+}
+.confidencebutton{
+    margin-left: 100px;
+    border: 1px solid blue;
+}
+.image5{
+    width: 350px;
+    height: 350px;
+    padding-left: 200px;
+    padding-top: 50px;
+}
+.checkout{
+    width: 100%;
+    height: 350px;
+    background-color: #f4f7fa;
+}
+.checkoutmillion{
+    width: 100%;
+    height: 50%;
+}
+.checkoutlogo{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+}
+.checkoutmillion h1{
+    text-align: center;
+    padding-top: 80px;
+    color: skyblue;
+    font-size: 50px;
+    font-weight: 10;
+}
+.logo1{
+    width: 150px;
+    height: 100px;
+}
+
+.logo2{
+    width: 150px;
+    height: 100px;
+}
+.logo3{
+    width: 150px;
+    height: 100px;
+}
+.image6{
+    padding-top: 10px;
+    width: 75%;
+    height: 40%;
+}
+.usertimer{
+    width: 100%;
+    height: 430px;
+    background-color: #05a7ea;
+}
+.usertimer h1{
+    padding-top: 70px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 10;
+    color: white;
+}
+.image7{
+    width: 600px;
+    height: 100px;
+    padding-left: 400px;
+    padding-top: 80px;
+}
+.termsconditions{
+    width: 100%;
+    height: 250px;
+    background-color: #f4f7fa
+}
+.termsconditions li{
+    padding-left: 180px;
+    font-size: 18px;
+    font-weight: 10;
+}
+footer{
+    width: 100%;
+    height: 250px;
+    background-color: #f4f7fa;
+}
+.block1{
+    width: 70%;
+    height: 30px;
+    display: flex;
+    margin-left: 160px;
+    border-bottom: 1px solid black;
+}
+h5{
+    padding: 10px;
+}
+.block2{
+    width: 70%;
+    height: 30px;
+    margin-left: 160px;
+    display: flex;
+}
+.subblock1{
+    width: 50%;
+    height: 100%;
+    display: flex;
+}
+.subblock2{
+    width: 50%;
+    height: 100%;
+    display: flex;
+}
+.image8{
+    padding-left: 618px;
+    
+}
+.block3{
+    width: 70%;
+    height: 180px;
+    margin-left: 160px;
+}
+.block3 p{
+    padding: 0;
+    font-size: 15px;
+}
